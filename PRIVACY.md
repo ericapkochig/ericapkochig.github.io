@@ -10,7 +10,7 @@
 
 ## Data Collection
 
-* **IP Address** by `[Website]`'s host -- See details below
+* **IP Address** by `[Third-Party]` -- See details below
 
 The `[Website]` does **not** collect any Personal Identifyable Information (PII) about the `[User]`.
 
