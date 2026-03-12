@@ -1,3 +1,0 @@
-# ericapkochig.github.io
-
-Hola!
